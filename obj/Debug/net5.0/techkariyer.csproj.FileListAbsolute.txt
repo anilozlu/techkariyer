@@ -1,0 +1,16 @@
+/home/anil/Desktop/csharp/techkariyer/bin/Debug/net5.0/techkariyer
+/home/anil/Desktop/csharp/techkariyer/bin/Debug/net5.0/techkariyer.deps.json
+/home/anil/Desktop/csharp/techkariyer/bin/Debug/net5.0/techkariyer.runtimeconfig.json
+/home/anil/Desktop/csharp/techkariyer/bin/Debug/net5.0/techkariyer.runtimeconfig.dev.json
+/home/anil/Desktop/csharp/techkariyer/bin/Debug/net5.0/techkariyer.dll
+/home/anil/Desktop/csharp/techkariyer/bin/Debug/net5.0/ref/techkariyer.dll
+/home/anil/Desktop/csharp/techkariyer/bin/Debug/net5.0/techkariyer.pdb
+/home/anil/Desktop/csharp/techkariyer/obj/Debug/net5.0/techkariyer.csprojAssemblyReference.cache
+/home/anil/Desktop/csharp/techkariyer/obj/Debug/net5.0/techkariyer.GeneratedMSBuildEditorConfig.editorconfig
+/home/anil/Desktop/csharp/techkariyer/obj/Debug/net5.0/techkariyer.AssemblyInfoInputs.cache
+/home/anil/Desktop/csharp/techkariyer/obj/Debug/net5.0/techkariyer.AssemblyInfo.cs
+/home/anil/Desktop/csharp/techkariyer/obj/Debug/net5.0/techkariyer.csproj.CoreCompileInputs.cache
+/home/anil/Desktop/csharp/techkariyer/obj/Debug/net5.0/techkariyer.dll
+/home/anil/Desktop/csharp/techkariyer/obj/Debug/net5.0/ref/techkariyer.dll
+/home/anil/Desktop/csharp/techkariyer/obj/Debug/net5.0/techkariyer.pdb
+/home/anil/Desktop/csharp/techkariyer/obj/Debug/net5.0/techkariyer.genruntimeconfig.cache
